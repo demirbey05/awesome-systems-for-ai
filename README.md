@@ -13,7 +13,9 @@
 | Header | URL |
 | ----------- | ----------- |
 | LLM Systems Course Material from CMU  | [Link](https://llmsystem.github.io/llmsystem2024spring/) |
-| ML Engineering Guide by Chip Huyen | [Link](https://huyenchip.com/mlops/) 
+| ML Engineering Guide by Chip Huyen | [Link](https://huyenchip.com/mlops/) |
+| Efficient Deep Learning Course by Yandex| [Link](https://github.com/mryab/efficient-dl-systems?tab=readme-ov-file)|
+
 
 
 
