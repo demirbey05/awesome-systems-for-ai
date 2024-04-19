@@ -16,6 +16,10 @@
 | ML Engineering Guide by Chip Huyen | [Link](https://huyenchip.com/mlops/) |
 | Efficient Deep Learning Course by Yandex| [Link](https://github.com/mryab/efficient-dl-systems?tab=readme-ov-file)|
 
+## Deep Learning Theory
+| Header | URL |
+| ----------- | ----------- |
+| Deep Learning book by Chris Bishop  | [Link](https://www.bishopbook.com/) |
 
 
 
