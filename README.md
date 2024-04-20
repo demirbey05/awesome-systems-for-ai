@@ -8,6 +8,8 @@
 | BLAS-level CPU Performance in 100 Lines of C | [Link](https://cs.stanford.edu/people/shadjis/blas.html) |
 | OpenCL SGEMM tuning for Kepler | [Link](https://cnugteren.github.io/tutorial/pages/page8.html) |
 | Books for High Performance Linear Algebra | [Link](http://ulaff.net/) |
+| Blaze: C++ High Performance Math Library  | [Link](https://bitbucket.org/blaze-lib/blaze/src/master/) |
+
 
 ## ML Systems
 | Header | URL |
@@ -15,6 +17,8 @@
 | LLM Systems Course Material from CMU  | [Link](https://llmsystem.github.io/llmsystem2024spring/) |
 | ML Engineering Guide by Chip Huyen | [Link](https://huyenchip.com/mlops/) |
 | Efficient Deep Learning Course by Yandex| [Link](https://github.com/mryab/efficient-dl-systems?tab=readme-ov-file)|
+| Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production| [Link](https://deeplearningsystems.ai/#)|
+| Machine Learning Hardware and Systems Lectures by Cornell| [Link](https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6)|
 
 ## Deep Learning Theory
 | Header | URL |
