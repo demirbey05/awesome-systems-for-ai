@@ -20,6 +20,7 @@
 | Header | URL |
 | ----------- | ----------- |
 | Deep Learning book by Chris Bishop  | [Link](https://www.bishopbook.com/) |
+|Andrej Karpathy Playlist  | [Link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
 
 
 
