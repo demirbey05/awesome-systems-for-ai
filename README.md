@@ -9,6 +9,7 @@
 | OpenCL SGEMM tuning for Kepler | [Link](https://cnugteren.github.io/tutorial/pages/page8.html) |
 | Books for High Performance Linear Algebra | [Link](http://ulaff.net/) |
 | Blaze: C++ High Performance Math Library  | [Link](https://bitbucket.org/blaze-lib/blaze/src/master/) |
+| CUDA Reading Group| [Link](https://www.youtube.com/@CUDAMODE)|
 
 
 ## ML Systems
